@@ -21,7 +21,7 @@ public class Library {
 
     //getters and setters
     public void printAddress() {
-        System.out.println(this.getAddress());
+        System.out.println(getAddress());
     }
 
     public void setAddress(String address) {
